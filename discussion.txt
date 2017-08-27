@@ -1,0 +1,35 @@
+************************************RUNTIME*************************************
+
+1. The runtime of determining whether a box of animal crackers contains an elephant is O(n). The amount of work increases with the amount of animal crackers. Thinking pessimistically, there may not be an elephant in the box at all, but you won't know that for sure until you've checked every cracker.
+
+2.  O(1)
+    O(log n)
+    O(n)
+    O(n log n)
+    O(n^2)
+    O(2^n)
+
+********************************STACKS & QUEUES*********************************
+
+1. 
+    1. queue
+    2. stack
+    3. stack
+2. task manager, video streaming
+3. undo buttons, call stacks
+
+**********************************LINKED LISTS**********************************
+ 
+ 1. The 'apple', 'berry', and 'cherry' boxes are nodes. The data is 'apple', 'berry', and 'cherry'. The head is 'apple'. The tail isn't defined in this diagram, but if there was a tail, it'd make sense to put it on 'cherry'. 
+
+ 2. Singly linked lists are only able to be travsered in one direction, whereas doubly linked lists can go either way. A singly linked list either has a next OR a previous, a doubly linked list has both. Doubly linked lists take up more space in memory, though.
+
+ 3. If you have a tail attribute on a linked lists, it's faster to append because you already know where the end of the list is. If you don't have the tail, you have to traverse the list until you find the end.
+
+*************************************TREES**************************************
+
+1. food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burritos 
+
+2. food, Italian, lasagna, pizza, thin crust, Chicago-style
+
+3. A binary search tree node has either 1 or 2 children, and has a rule used for arrangement, i.e. nodes on the left are always smaller, and nodes on the right are always bigger. Any other tree could have any number of children and are not necessarily organized by a specific ruleset.
